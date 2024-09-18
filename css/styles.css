@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+  
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    background-color: cadetblue;
+    height: 200px;
+}
+.txt{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(108, 117, 250);
+    height: 200px;
+}
